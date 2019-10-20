@@ -1,4 +1,4 @@
-package com.internshala.javaapp;
+package javaapp;
 
 public class Pastry  extends Cake{
     public void display(){
