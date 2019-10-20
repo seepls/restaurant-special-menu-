@@ -1,4 +1,4 @@
-package com.internshala.javaapp;
+package javaapp;
 
 
 import java.util.ArrayList;
